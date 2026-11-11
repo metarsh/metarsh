@@ -3,7 +3,7 @@
     <td width="60%" valign="middle">
       <h2>Arsh Javed</h2>
       <p>
-        Product engineer
+        software developer
       </p>
       <p>
         <a href="https://arshjaved.in"><kbd>&nbsp;arshjaved.in ↗</kbd></a>
